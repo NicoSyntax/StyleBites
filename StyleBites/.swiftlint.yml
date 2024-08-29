@@ -1,0 +1,3 @@
+disables_rules:
+- multiple_closures_with_trailing_closure
+- line_length
