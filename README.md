@@ -22,7 +22,7 @@ Wenn deine App dann so weit ist, dass du echte Screenshots machen kannst, sollte
 Hier kommen alle geplanten Features der App rein mit dem Status, ob es bereits umgesetzt wurde.
 
 - [ ] Bildanalysen mit Hilfe von AI
-- [ ] CoreData für Lieblingsgerichte
+- [ ] SwiftData für Lieblingsgerichte
 - [ ] Voreinstellungen für Ernährung z.B. Vegan/Vegetarisch
 - [ ] Firebase für Authentifizierung
 
